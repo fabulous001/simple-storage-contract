@@ -64,3 +64,5 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+# simple-storage-contract
+Simple storage smart contract using foundry
